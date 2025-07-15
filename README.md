@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://i.ibb.co/93YF65kX/eba88b7a-7fa1-4348-9168-b9b7b7315279.png"  />
 </div>
 
 ###
@@ -12,21 +12,23 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<h1 align="center">🔐 Secure Manager – RoundTable AI</h1>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h3 align="left">👩‍💻  About</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">> A fully client-side AI orchestration interface built with React, TypeScript, and TailwindCSS.  <br>> It collects responses from multiple AI models (ChatGPT, Gemini, Claude, LLaMA via Ollama, etc.)  <br>> and generates a final summary using ChatGPT.<br><br>📌 Features<br><br>- 🌐 **Frontend-only App** – No backend, no database required<br>- 🤖 **Multi-AI Responses** – Sends user input to multiple AI providers<br>- 🧠 **Summary Engine** – Uses ChatGPT to summarize responses<br>- 🔧 **Custom API Keys** – Configure each AI model with your own API key (stored in `localStorage`)<br>- ✅ **Toggle AI Models** – Enable/disable each model dynamically<br>- 📋 **Copy Responses** – Easily copy answers with one click<br>- ♻️ **Reset Form** – Clear input and all responses with a reset<br>- 🌀 **Responsive UI** – Circular, card-based layout for displaying answers<br><br>---<br><br> 🧱 Tech Stack<br><br>- ⚛️ **React** (with Hooks)<br>- ⛑️ **TypeScript**<br>- 🎨 **TailwindCSS**<br>- 📦 **Vite** (for development and build)<br>- 💾 **localStorage** for saving API keys and settings<br><br>---<br><br>🚀 Getting Started<br><br> 1. Clone the Repository<br><br>git clone https://github.com/securemanager/ai-roundtable-love.git<br><br>cd ai-roundtable-love</p>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h1 align="left">How Use</h1>
+
+###
+
+<p align="left">🚀 Getting Started<br><br> 1. Clone the Repository<br><br>git clone https://github.com/securemanager/ai-roundtable-love.git<br><br>cd ai-roundtable-love<br><br><br>2. Install Dependencies <br><br>npm install<br># or<br>yarn install<br><br><br>3. Start Development Server<br><br>npm run dev<br># or<br>yarn dev</p>
 
 ###
 
@@ -34,34 +36,20 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###

@@ -61,15 +61,27 @@ export const useAI = () => {
     return data.content[0]?.text || 'No response received';
   };
 
-  const callGemini = async (prompt: string, apiKey: string): Promise<string> => {
-    const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${apiKey}`, {
+const callGemini = async (prompt: string, apiKey: string): Promise<string> => {
+  const response = await fetch(
+    `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${apiKey}`,
+    {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { maxOutputTokens: 500, temperature: 0.7 },
+        contents: [
+          {
+            parts: [{ text: prompt }],
+          },
+        ],
+        generationConfig: {
+          maxOutputTokens: 500,
+          temperature: 0.7,
+        },
       }),
-    });
+    }
+  );
+
+  const data = await response.json();
 
     if (!response.ok) {
       const errorData = await response.json().catch(() => ({}));
